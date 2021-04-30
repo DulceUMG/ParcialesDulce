@@ -1,0 +1,13 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas, tarea 3\Programa 1\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.genruntimeconfig.cache
