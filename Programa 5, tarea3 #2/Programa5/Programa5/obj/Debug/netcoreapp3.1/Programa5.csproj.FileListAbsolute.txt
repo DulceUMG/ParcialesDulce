@@ -1,0 +1,12 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\bin\Debug\netcoreapp3.1\Programa5.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 5\Programa5\Programa5\obj\Debug\netcoreapp3.1\Programa5.genruntimeconfig.cache

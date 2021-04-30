@@ -1,0 +1,13 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\bin\Debug\netcoreapp3.1\Progama2.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Clase 3\Programas tarea #3\Programa 2\Progama2\Progama2\obj\Debug\netcoreapp3.1\Progama2.genruntimeconfig.cache
