@@ -1,0 +1,13 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\bin\Debug\netcoreapp3.1\Programa6.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 6\Programa6\Programa6\obj\Debug\netcoreapp3.1\Programa6.genruntimeconfig.cache

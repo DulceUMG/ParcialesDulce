@@ -1,0 +1,13 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programas\Programa 2\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.genruntimeconfig.cache
