@@ -1,0 +1,13 @@
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.csprojAssemblyReference.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.AssemblyInfoInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.AssemblyInfo.cs
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.csproj.CoreCompileInputs.cache
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.exe
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.deps.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.runtimeconfig.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.runtimeconfig.dev.json
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\bin\Debug\netcoreapp3.1\Programadia13.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.dll
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.pdb
+C:\Users\frnac\Desktop\UMG\Programacion 1\Programa\Programadia13\Programadia13\obj\Debug\netcoreapp3.1\Programadia13.genruntimeconfig.cache
